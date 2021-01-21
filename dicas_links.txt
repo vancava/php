@@ -1,0 +1,10 @@
+Instalar o PHP 7 no MAC:
+curl -s http://php-osx.liip.ch/install.sh | bash -s 7.0
+ou
+curl -s http://php-osx.liip.ch/install.sh | bash -s 7.1
+e depois rodar:
+export PATH=/usr/local/php5/bin:$PATH
+
+
+Instalar o Composer no MAC:
+https://www.youtube.com/watch?v=OCK6vPVJCA4
